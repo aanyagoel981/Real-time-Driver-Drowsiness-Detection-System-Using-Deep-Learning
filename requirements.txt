@@ -1,0 +1,5 @@
+# Tested on Python 3.12 (Windows)
+tensorflow==2.21.0
+opencv-contrib-python==4.14.0.94
+pygame==2.6.1
+numpy
